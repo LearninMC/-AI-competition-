@@ -1,1 +1,1 @@
-## Firest competition : individual / tabular / 
+## Firest competition : hand_gesture_detection / tabular / individual
